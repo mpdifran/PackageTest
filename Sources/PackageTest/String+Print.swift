@@ -10,7 +10,7 @@ import Foundation
 extension String {
 
     /// Prints this instance to the console.
-    func print() {
+    func printToConsole() {
         print(self)
     }
 }
