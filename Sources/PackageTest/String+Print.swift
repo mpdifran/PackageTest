@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension String {
+public extension String {
 
     /// Prints this instance to the console.
     func printToConsole() {
